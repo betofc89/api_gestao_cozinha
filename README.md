@@ -12,5 +12,5 @@ npm start
 ```
 
 ## Repositório do front-end
-O repositório do front-end mesmo deste desafio pode ser encontrado no seguinte link: https://github.com/betofc89/gestao_cozinha
+O repositório do front-end mesmo deste desafio pode ser encontrado no seguinte link: https://github.com/betofc89/gestao-cozinha
 Lá estarão os arquivos e as instruções para instalação.
