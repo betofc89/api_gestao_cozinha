@@ -11,7 +11,7 @@ router.post('/login', async (req, res) => {
     
       return res.status(200).json({token})
     }
-    return res.status(403).json({msg: 'Usuário ou senha inválidos.'})
+    return res.status(403).json({msg: 'Usuário ou senha inválidos'})
 
   } catch (error) {
     return res.status(500).json({error})
