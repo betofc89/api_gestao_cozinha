@@ -1,7 +1,6 @@
 const router = require('express').Router()
 const jwt = require('jsonwebtoken')
 
-// Leitura de todas as receitas.
 router.post('/login', async (req, res) => {
   try {
     if(req.body.userName === 'admin' && req.body.password === 'admin') {
